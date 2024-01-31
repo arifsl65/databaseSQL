@@ -1,0 +1,6 @@
+print("\nChoose an operation:")
+print("1. Search")
+print("2. Insert")
+print("3. Update")
+print("4. Delete")
+print("5. Exit")
